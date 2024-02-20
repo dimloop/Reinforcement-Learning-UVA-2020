@@ -1,3 +1,3 @@
-# Reinforcement-Learining-UVA-2020 
+# Reinforcement-Learning-UVA-2020 
 
-Solutions of Reinforcement Learining labs (UVA 2020)
+Solutions of Reinforcement Learning labs (UVA 2020)
